@@ -3,28 +3,30 @@
   "name": "accountgoweb",
   "private": true,
   "devDependencies": {
+    "@types/node": "^7.0.13",
     "gulp": "latest",
+    "mobx-react-devtools": "^4.2.0",
     "ts-loader": "latest",
     "tsd": "latest",
-    "typescript": "latest",
-    "mobx-react-devtools": "^4.2.0"
+    "typescript": "latest"
   },
   "dependencies": {
+    "@types/es6-promise": "0.0.32",
+    "accounting": "^0.4.1",
+    "ag-grid": "latest",
+    "ag-grid-react": "latest",
     "axios": "latest",
     "bootstrap": "latest",
+    "d3": "latest",
+    "html2canvas": "0.5.0-beta4",
     "jquery": "2.2.4",
+    "jspdf": "latest",
+    "knockout": "latest",
+    "knockout-mapping": "latest",
     "mobx": "latest",
     "mobx-react": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "d3": "latest",
-    "react-router": "latest",
-    "ag-grid": "latest",
-    "ag-grid-react": "latest",
-    "knockout": "latest",
-    "knockout-mapping": "latest",
-    "accounting": "^0.4.1",
-    "jspdf": "latest",
-    "html2canvas": "0.5.0-beta4"
+    "react-router": "latest"
   }
 }
